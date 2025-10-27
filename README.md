@@ -1,5 +1,8 @@
 ### Arduino_DengDog  
 
+本项目完成于2024年8月31日，不再更新。
+
+This project was completed on August 31, 2024, and will no longer be updated.
 
 #### 基本信息  
 - **类型**：基于ESP32的八自由度串联舵机四足机器人  
